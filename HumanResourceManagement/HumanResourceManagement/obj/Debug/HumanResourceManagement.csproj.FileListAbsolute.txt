@@ -1,0 +1,11 @@
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe.config
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.AssemblyReference.cache
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Login.resources
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Properties.Resources.resources
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.GenerateResource.cache
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.exe
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.pdb
