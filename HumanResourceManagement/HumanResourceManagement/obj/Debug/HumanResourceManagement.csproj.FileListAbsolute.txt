@@ -9,3 +9,4 @@ C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\H
 C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CoreCompileInputs.cache
 C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.exe
 C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\HR-Management\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Dashboard.resources
