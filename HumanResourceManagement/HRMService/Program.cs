@@ -2,6 +2,8 @@
 
 
 
+using HRMService.Context;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -30,6 +32,11 @@ builder.Services.AddCors(options =>
     });
 });
 
+//Database Context Dependency Injection
+
+var connectionString = _configuration.GetConnectionString("MySQLConnection");
+
+builder.Services.AddDbContext<AppDbContext>(o => o.UseMySQL(connectionString));
 
 
 builder.Services.AddControllers();
