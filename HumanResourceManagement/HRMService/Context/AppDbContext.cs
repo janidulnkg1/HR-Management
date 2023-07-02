@@ -11,7 +11,7 @@ namespace HRMService.Context
         public DbSet<Department> Departments { get; set; }
         public DbSet<Employee> Employees { get; set; }
 
-        public DbSet<Finance> Finances { get; set; }
+    
         public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions) : base(dbContextOptions)
         {
             try

@@ -15,10 +15,7 @@ namespace HRMService.Models
 
             public string lastName { get; set; }
 
-
-            [EmailAddress]
-
-            public string Email { get; set; }
+            public string Username { get; set; }
 
             [Required]
             [DataType(DataType.Password)]
@@ -33,13 +30,12 @@ namespace HRMService.Models
         public class UserLoginModel
         {
             [Required]
-            [EmailAddress]
-            public string Email { get; set; }
+            
+            public string Username { get; set; }
 
             [Required]
             [DataType(DataType.Password)]
             public string Password { get; set; }
-
 
         }
 
@@ -61,10 +57,9 @@ namespace HRMService.Models
             public string lastName { get; set; }
 
 
-            [EmailAddress]
             [Required]
-            [Column("email")]
-            public string Email { get; set; }
+            [Column("username")]
+            public string Username { get; set; }
 
 
             [DataType(DataType.Password)]
