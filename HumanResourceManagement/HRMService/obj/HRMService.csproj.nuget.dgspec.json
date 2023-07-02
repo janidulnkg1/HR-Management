@@ -54,9 +54,13 @@
               "target": "Package",
               "version": "[7.0.8, )"
             },
-            "MySql.Data.EntityFrameworkCore": {
+            "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.22, )"
+              "version": "[8.0.33, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

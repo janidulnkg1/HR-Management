@@ -1,4 +1,4 @@
-
+using MySql.EntityFrameworkCore;
 using HRMService.Context;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json.Serialization;

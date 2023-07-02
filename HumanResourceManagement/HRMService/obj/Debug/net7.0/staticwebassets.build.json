@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vdBa8K62CdFhwTzWwYgtPTaMBp+T08jD0FZmaFfJ6YE=",
+  "Source": "HRMService",
+  "BasePath": "_content/HRMService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

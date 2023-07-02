@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Runtime.CompilerServices;
 
 namespace HRMService.Models
 {
@@ -18,6 +19,7 @@ namespace HRMService.Models
         [Required]
         public string LastName { get; set; }
 
+        
         [Column("DOB")]
         [Required]
         public DateOnly DOB { get; set; }
